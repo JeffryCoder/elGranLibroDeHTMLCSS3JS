@@ -1,1 +1,27 @@
-El día 14 de Febrero del 2020(San Valentín), empecé con la lectura del libro.
+El día 14 de Febrero del 2020(San Valentín), empecé con la lectura del libro a las 5:30PM.
+
+A continuación detallaré todo lo que aprendí en el capítulo que empecé a leer.
+
+El lenguaje y el desarrollo de web, por la intención de comunicar información por medio de texto.
+Debido a que ya no solo utilizaban la web personas amantes de los computadores, sino que evolucionó a un medio
+en el que se utilizaba como campo estratégico también, hubo limitaciones y por esto las tecnolgías de Flash y java fueron muriendo en la web
+
+                                  Capítulo 1
+                              Documentos HTML5
+1.1 Componentes básicos
+
+  HTML da la estructura de el sitio web
+  CSS da la apariencia de la escructura a presentar en pantalla
+  JavaScript da la funcionalidad e interactividad necesaria al sitio web
+
+1.2 Estructura global
+
+  <!DOCTYPE html> Etiqueta para declarar el tipo de documento que estamos haciendo
+
+  <html> Etiqueta que comienza a definir la escructura del sitio web
+  <HEAD> Este etiqueta define la cabecera del documento. TODO lo que se ponga aquí excepto los títulos y algunas íconos será invisible para el usuario
+  <meta> Especifica de qué manera el texto será presentado en pantalla
+    <link> Se utiliza para cargar archivos CSS externos
+
+
+1.3 Estructura del cuerpo

@@ -25,3 +25,22 @@ en el que se utilizaba como campo estratégico también, hubo limitaciones y por
 
 
 1.3 Estructura del cuerpo
+<header>
+<nav>
+<section>
+<aside>
+<footer>
+
+
+
+1.4 Dentro del cuerpo
+
+<article>
+<h1><h2><h3><h4><h5><h6>
+<hgroup>
+<figure>
+<figcaption>
+
+
+
+1.5 Nuevos y viejos elementos
